@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 1694615f5d656a8458b91833ae3f9b98
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4269223357086538269
+    second: game rig|Armature|0_T-Pose
+  - first:
+      74: 6327147793832537796
+    second: game rig|DO NOT TOUCH CAMERA.001Action.002
+  - first:
+      74: 6817192251988753998
+    second: game rig|Key.001|0_T-Pose
+  - first:
+      74: -6654101580777270045
+    second: game rig|Key.001|0_T-Pose.001
+  - first:
+      74: -8246835777445860685
+    second: game rig|Key.001|0_T-Pose.002
+  - first:
+      74: 1082646163025009444
+    second: game rig|Key.001|0_T-Pose.003
+  - first:
+      74: -6013789674781537282
+    second: game rig|Key.001|0_T-Pose.004
+  - first:
+      74: -4181459233232498801
+    second: game rig|Key.001|0_T-Pose.005
+  - first:
+      74: 5266623601178960120
+    second: game rig|Key.001|0_T-Pose.006
+  - first:
+      74: -7986721211069282028
+    second: game rig|Key.001|0_T-Pose.007
+  - first:
+      74: -997933450411421840
+    second: game rig|Key.001|0_T-Pose.008
+  - first:
+      74: -185328987052784822
+    second: game rig|Key.001|0_T-Pose.009
+  - first:
+      74: 7293060812507346755
+    second: game rig|Key.001|0_T-Pose.010
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Do_NOT_print_FRONT_132273
+    second: {fileID: 2100000, guid: 19ae7eac229d0764ca447517a79a086d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MASK
+    second: {fileID: 2100000, guid: 95b0489cf67fd3f449e2a0c9eb060394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MASK2
+    second: {fileID: 2100000, guid: e4a4b16ee3c4199418749d6607bb426d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TeethMaterial
+    second: {fileID: 2100000, guid: e697e6b0e78d8604884c1bc87705cbff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue cyborg Eyes
+    second: {fileID: 2100000, guid: ab259dc3ac0c0844fbf81c14ca74dc5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caucasian cyborg
+    second: {fileID: 2100000, guid: 368ad32436af4b84f9c559181b98a72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cyber arm
+    second: {fileID: 2100000, guid: bddc9bf498eb8734083d6ff1ec675d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow
+    second: {fileID: 2100000, guid: bd2a85b1a6853a34a815ffed08edd603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jacket
+    second: {fileID: 2100000, guid: 8f498f4ad49ae4a4aa3a65061252d3fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: 793f6c242f8c3d641b13ec6456710046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoe
+    second: {fileID: 2100000, guid: 7994d184c6d953b4f9227896b6eef7b5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
+      does not match:\n\tTransform 'pelvis' for human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

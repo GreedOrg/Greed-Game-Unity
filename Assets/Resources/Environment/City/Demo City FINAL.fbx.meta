@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: fa740fd1f1e206d469fd0cf66016ee28
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apartment_Building_01.020
+    second: {fileID: 2100000, guid: 32737acf93806ae42a492d6e79b9cf6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BB Base
+    second: {fileID: 2100000, guid: 6dec427e22391da42b3265446bcc845c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue neon
+    second: {fileID: 2100000, guid: e2b436ffdbbe8e14382fa385375f5460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel Base
+    second: {fileID: 2100000, guid: 6cc84a2f2d333d34b87c3fcc9eaaef4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel walls
+    second: {fileID: 2100000, guid: 0403a2e4d8e4e8245b44a0a042145607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intersection.001
+    second: {fileID: 2100000, guid: 3f3ec15a34ec06348877336b7ab97c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e02df91159f8bfc479abaffdeab65cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 766fd8c053a69b247a0ed4fa6519e006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 36c7dd94ce195f348bc6b0ea07a902c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 6bd1f603f619eea4d8a3b523e9aa5182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 6b0cc78bc0d5bd24a92ef9b5b63de3ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: c7e0a7e8dadcca24a9dadf04a9de5fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: 64f32dc2e74f8dc4886761844af0d4cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: 229c0aedef211a7468f042f566ae0320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: 4c1f154aac9c0e04d819df41bb36c6af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 382f58e8399f51e4f8812aca06dfb10c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: f89d16380da4bba498ac157673211594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: c4e3db9b891821841b0235ad60b8c233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.073
+    second: {fileID: 2100000, guid: 8ee794ba4fda65f4fa6412bd8e5683b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.074
+    second: {fileID: 2100000, guid: dc8518c667ebffa42925708afefd5c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.075
+    second: {fileID: 2100000, guid: 7cbaaf5313e4d1e4ca615b4191c31b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.076
+    second: {fileID: 2100000, guid: a114f905583f3c64cb51d7d09712192f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.077
+    second: {fileID: 2100000, guid: 7f8e89295e7282844bad96ea59209a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.078
+    second: {fileID: 2100000, guid: e2c2f4b46efcf8a428fde4cc3dee97a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.079
+    second: {fileID: 2100000, guid: 2023ae9cc1fb8d4478df8356c08f24ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.080
+    second: {fileID: 2100000, guid: 729f22c5e05a2144db137b1887978244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.081
+    second: {fileID: 2100000, guid: e335ee5198365ad4ab2a8c41a986024f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.082
+    second: {fileID: 2100000, guid: 5cc553a5548bbcf4f9059d787dd187b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.083
+    second: {fileID: 2100000, guid: ee2b30508eeed004792b8376eee7d4b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.084
+    second: {fileID: 2100000, guid: c80bd3f5561f38b4ba5319deaf2771c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.085
+    second: {fileID: 2100000, guid: 7b8e33fa890c5a746b4f27eb5d673cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.086
+    second: {fileID: 2100000, guid: 783a308c2cab59a4e84b603d3473fcea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.087
+    second: {fileID: 2100000, guid: bb943ac7e71c7ca47af77527658924ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.089
+    second: {fileID: 2100000, guid: 677072a79e7ca4a4dae0468a4c252a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.090
+    second: {fileID: 2100000, guid: e2d4dabebf75a5f4bbf01b13ab226b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.091
+    second: {fileID: 2100000, guid: 7161102b96ab30a4c8b9fd093929a1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.092
+    second: {fileID: 2100000, guid: eee779789b647f546b18b20f0c4eab39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.093
+    second: {fileID: 2100000, guid: 007177087ea4e704393793f73e758632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.094
+    second: {fileID: 2100000, guid: 02ee60d9cde3412439dbecac357714f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.095
+    second: {fileID: 2100000, guid: cb2f8c703673d95469bbc43f34773f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.096
+    second: {fileID: 2100000, guid: 1e0ee5f389f3f3b43a67f6b8439e6b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.097
+    second: {fileID: 2100000, guid: a328ee383e22d9f488b70d0878369554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.098
+    second: {fileID: 2100000, guid: f3d70a048439ba844999caaf67ff0b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.101
+    second: {fileID: 2100000, guid: b427aaffdbc0538469ca9b4210b21be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.102
+    second: {fileID: 2100000, guid: b09e93f444c3a584ba56e3e853041a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: b742053b2224d004c8651f520ce5fa95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road.001
+    second: {fileID: 2100000, guid: aa2e958241cb1f648808db4bc5525fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road.002
+    second: {fileID: 2100000, guid: 0e31993db90c6fb42b8b3284bb8b8f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk
+    second: {fileID: 2100000, guid: b121a66e570427c409ec1dc10dea46fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.001
+    second: {fileID: 2100000, guid: 3d5b8539834fd3b438bbf8d2cdd3601e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.002
+    second: {fileID: 2100000, guid: 80d84cf67207c654f903bd541437f88a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.003
+    second: {fileID: 2100000, guid: d339e9b8e961ee24c830761d47988962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.004
+    second: {fileID: 2100000, guid: e9de5021dbbbe44418b97ce6fb07ae1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.005
+    second: {fileID: 2100000, guid: cb4c5faf4b4289949b312155fc988711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.006
+    second: {fileID: 2100000, guid: bad56666f46c8e34bb0020a84a3dc9a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.007
+    second: {fileID: 2100000, guid: 1db4cf35f4b269348a83c81b57542354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.008
+    second: {fileID: 2100000, guid: f8c9597af79277e45bf6111a04b9057d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.009
+    second: {fileID: 2100000, guid: 2857bff5a008186428e7cf41b66048f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.010
+    second: {fileID: 2100000, guid: caa5acd6f4ac4014ab143ec84091459a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.011
+    second: {fileID: 2100000, guid: 0064c6f76d2e3cf48a7151c173935fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.012
+    second: {fileID: 2100000, guid: b15db753f745e9147998794dfa667e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.013
+    second: {fileID: 2100000, guid: f515d2eb9fdba6e4493c98465bcd1f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.014
+    second: {fileID: 2100000, guid: c1284fcee3cab014d939974880e7a95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.015
+    second: {fileID: 2100000, guid: 538775efd738df14e960f7db82500f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.016
+    second: {fileID: 2100000, guid: 968c72516733a684a8ff7ff068955bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.017
+    second: {fileID: 2100000, guid: ddfa3ca506615ea498747c57cbb52973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.018
+    second: {fileID: 2100000, guid: cb756a1fec16693458df5fb20f619b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.019
+    second: {fileID: 2100000, guid: ec19b110dd736a54dbd04dc27e8ce58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.020
+    second: {fileID: 2100000, guid: 1c9491661ec730044bf92eefb0c91846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.021
+    second: {fileID: 2100000, guid: 9f8b122a9aa55ed40a4e0511a4742b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.022
+    second: {fileID: 2100000, guid: 9d4f52ded7d83aa47a328b97e3a24206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.023
+    second: {fileID: 2100000, guid: 7903d85d85f0dd24ca0b4f1e8ba4f732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.024
+    second: {fileID: 2100000, guid: 23dff3b9bcb61ef4da785c14f68eb5c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.025
+    second: {fileID: 2100000, guid: 30614ce3f578c8649a36a1724d01e590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.026
+    second: {fileID: 2100000, guid: 061a250499542d445a857baccdfcfaf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.027
+    second: {fileID: 2100000, guid: df234cc1f451264469f5651d6cd877fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.028
+    second: {fileID: 2100000, guid: a5af3c994ecd00741b895736fc115451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.029
+    second: {fileID: 2100000, guid: 81a8312c7a0f0b748952ecfecf4840b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.030
+    second: {fileID: 2100000, guid: 33836666dab63064f84253a6dacc34fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.031
+    second: {fileID: 2100000, guid: 4897870e6f586524fb366541a06a3214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.032
+    second: {fileID: 2100000, guid: 35f9c7191151fe549addfae8d1f6aa58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.033
+    second: {fileID: 2100000, guid: 68ffedb590d689244931e6794e678a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.034
+    second: {fileID: 2100000, guid: c11838a32df6e0a498438aea39316de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.035
+    second: {fileID: 2100000, guid: 2af298019c57d0246a167f091ec57b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.036
+    second: {fileID: 2100000, guid: fc5b1a736dff6934da9739be90b97559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.037
+    second: {fileID: 2100000, guid: 0979e0589c7fe1f488bd5f93c7fa7704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.038
+    second: {fileID: 2100000, guid: 5b587f0be62217844a42618e34627dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.039
+    second: {fileID: 2100000, guid: f6e99ae51d72bfb4299af69a955bf6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.040
+    second: {fileID: 2100000, guid: c7b9d0dc81f8acb4cb0e8235803e7ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.042
+    second: {fileID: 2100000, guid: bfe50f049c0ee8748aaf51111528930a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.043
+    second: {fileID: 2100000, guid: 9c4537ce4ef6d17439f0c8416dd7465c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.044
+    second: {fileID: 2100000, guid: 1e4d03ff3dd84ba4795a123f52a633d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.045
+    second: {fileID: 2100000, guid: f246bad354e28ea4789e86df505cc5b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.046
+    second: {fileID: 2100000, guid: 113bca70187ea7842a3087f040c32298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.047
+    second: {fileID: 2100000, guid: 8ead038b912992e4fa32a01b9312f847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.048
+    second: {fileID: 2100000, guid: 66330210d3bf1554d99197e5ffeeb7db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.049
+    second: {fileID: 2100000, guid: 1c5ffb8cc543e16428ea638c3b49bbc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.050
+    second: {fileID: 2100000, guid: 74353601f7cb6274085d46bbe68b4706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.051
+    second: {fileID: 2100000, guid: c2d9707ab6606944e8bffa9291e79a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.052
+    second: {fileID: 2100000, guid: a6012fe67a5e1a042be714931cbb0ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.053
+    second: {fileID: 2100000, guid: a861ea4660b043d4cb2090f94ed9e1de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.054
+    second: {fileID: 2100000, guid: 6261f1998a2e94e4d961d549b83ba40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.055
+    second: {fileID: 2100000, guid: 3e41c1acc0e4bef4eae0d55e9ad2a798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.056
+    second: {fileID: 2100000, guid: 66541f64d7b8cb44bbdb14b532d1938e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.057
+    second: {fileID: 2100000, guid: 3e38a9ed038d2f04189f4e473fb1d2a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.058
+    second: {fileID: 2100000, guid: 8e3aee2f4996ae64db4da413e00d705e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.059
+    second: {fileID: 2100000, guid: 28483de4df0315c49a40fdb23598550f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.060
+    second: {fileID: 2100000, guid: 355930a9e2410214492e9ed74a3c6b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.061
+    second: {fileID: 2100000, guid: 10c1953ca2505964894fa030a6c7b8b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.062
+    second: {fileID: 2100000, guid: 8590d7a24dc4ac948aedc1f830250651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.063
+    second: {fileID: 2100000, guid: 98a96598cc9e55e48bdab28f5814171b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.064
+    second: {fileID: 2100000, guid: c62b897ab17f01e4c90fb34c7be012d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.065
+    second: {fileID: 2100000, guid: 1aefb015fbcd04148ab5a1f83716dfc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.066
+    second: {fileID: 2100000, guid: 6ae90f4bb1d477144b5915691beee7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.067
+    second: {fileID: 2100000, guid: d07f98531aecb644f891729e35321147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.068
+    second: {fileID: 2100000, guid: effa16426de310e49a9218d370861e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.069
+    second: {fileID: 2100000, guid: b0b64e989d29a674a8d8cc37fd79cd50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.070
+    second: {fileID: 2100000, guid: 7f3b3b3dcd41eaf42a633d6c582ba45f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.071
+    second: {fileID: 2100000, guid: 16960d8fd0df9d846bb99ca4fcb96deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.072
+    second: {fileID: 2100000, guid: 120ead5423de6ac4794f662bd50d4bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.073
+    second: {fileID: 2100000, guid: 03f08723114b0c94493063ef1b1dfbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.074
+    second: {fileID: 2100000, guid: 579ecf7f3e26b28478dfa6c4d7ec5f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.075
+    second: {fileID: 2100000, guid: 288f0bce3d1699d40a6de101aa01d084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.076
+    second: {fileID: 2100000, guid: 5a62ee5ca84940941888b24e3b10d8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.077
+    second: {fileID: 2100000, guid: 5bb7cd12a21608c4b9374ed55c6f1957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.078
+    second: {fileID: 2100000, guid: 4adb7dc703a93464bbde5db83c736400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.079
+    second: {fileID: 2100000, guid: 2c80b14b945b0474bb2b89e1a2e257fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.080
+    second: {fileID: 2100000, guid: 50b799e99b708ff439d6052df2b380a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.081
+    second: {fileID: 2100000, guid: 22c56f233c8510a4a9a02ee9dd31412b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.082
+    second: {fileID: 2100000, guid: ff318b5b36f565a4e8649719dea03448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.083
+    second: {fileID: 2100000, guid: 1fa3f4c4c6019c745bb7a196959d0340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.084
+    second: {fileID: 2100000, guid: f6c87c8069db8bc4a9b1146c6c86bb58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.085
+    second: {fileID: 2100000, guid: 4b1229a1ff3c21644b18743e16b06ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.086
+    second: {fileID: 2100000, guid: be527d8e24784dc45b8ef506e5a73a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk.087
+    second: {fileID: 2100000, guid: 6fe71205e80e9f242a00562ff8541c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Balcony
+    second: {fileID: 2100000, guid: 3e1c91bf2f2ac604392376643041b907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: 91b1c9a4f55e16042b4bb53b27a7890d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame.001
+    second: {fileID: 2100000, guid: 391eddaceb8133f468efd7985d3b6197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame.002
+    second: {fileID: 2100000, guid: 10d31a7310c7f8845bae8441eaa0acaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 18c44d2699e537a44841b72b99da13c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: 21fe6d9f22f02b54781dd06169b90fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.002
+    second: {fileID: 2100000, guid: 05fb491602aca904a961988529a65821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hotel_glas.004
+    second: {fileID: 2100000, guid: cb571a089faa4844388742561909443b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hotel_glas.006
+    second: {fileID: 2100000, guid: d833ed3d4166fd44d8bf82020cae9d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room.001
+    second: {fileID: 2100000, guid: 2d12f78894591ae429c82f79813470bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room.005
+    second: {fileID: 2100000, guid: c2a655fd81e34764da0e29a1e109ab70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.001
+    second: {fileID: 2100000, guid: 0c78693ea5133ee459e4877446116164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.002
+    second: {fileID: 2100000, guid: 2c08d079d97220a44a6fc4162753ddcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.003
+    second: {fileID: 2100000, guid: f2bd690dd07b28b4d8149efcbfaff5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.004
+    second: {fileID: 2100000, guid: 336d9b50e552b7144a6573ca472bbe04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.005
+    second: {fileID: 2100000, guid: 6ebf31123d1125f45b5ad40aad3730e5, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
